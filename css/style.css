@@ -98,3 +98,27 @@ p{
 figure{
   text-align: center;
 }
+/* Cuarta seccion */
+.seccion4{
+  background-color: #86afd1;
+}
+.row{
+  position: relative;
+}
+.title4{
+  text-align: center;
+  font-size: 40px;
+  font-family: Panama;
+  margin-top: 50px;
+}
+.p1{
+  text-align: justify;
+  text-align-last: center;
+  margin-top: -20px;
+}
+.divider{
+  position: absolute;
+  top:20%;
+  bottom:10%;
+  border-left:1px solid whitesmoke;
+}
