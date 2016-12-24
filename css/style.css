@@ -1,0 +1,58 @@
+body{
+  border-style: dashed;
+  margin: 0;
+  padding: 0;
+}
+/* Logo */
+.logo{
+  width: 70px;
+  height: 40px;
+}
+/* Navbar */
+nav{
+  margin-top: 25px;
+  margin-right: 80px;
+}
+
+li{
+  border-right: solid;
+  border-width: thin;
+  margin: 0;
+  padding: 0;
+}
+a{
+  font-family: Panama;
+  font-style: normal;
+  font-size: 18px;
+  text-decoration: none;
+  padding-left: 10px;
+  letter-spacing: 3px;
+}
+
+/* Primera seccion */
+.seccion1{
+  border-style: double;
+  padding-bottom: 175px;
+}
+article{
+  /*border-style: ridge;*/
+  margin-top: 150px;
+}
+.title{
+  text-align: center;
+  text-decoration: none;
+  font-family: Vicasso;
+  font-size: 80px;
+  /*border-style: dotted;*/
+}
+p{
+  padding: 50px;
+  /*border-style: dashed;*/
+  text-align: center;
+  text-align-last: justify;
+  text-decoration: none;
+  font-size: 16px;
+  font-weight: normal;
+  word-spacing: 4px;
+  line-height: 1.9em;
+}
