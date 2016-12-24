@@ -32,17 +32,17 @@ a{
 /* Primera seccion */
 .seccion1{
   border-style: double;
-  padding-bottom: 175px;
+  padding-bottom: 160px;
 }
-article{
+.articulo1{
   /*border-style: ridge;*/
-  margin-top: 150px;
+  margin-top: 145px;
 }
 .title{
   text-align: center;
   text-decoration: none;
   font-family: Vicasso;
-  font-size: 80px;
+  font-size: 90px;
   /*border-style: dotted;*/
 }
 p{
@@ -55,4 +55,38 @@ p{
   font-weight: normal;
   word-spacing: 4px;
   line-height: 1.9em;
+}
+
+/* Segunda seccion */
+.seccion2{
+  background-color: #97b0b3;
+  padding-bottom: 50px;
+  border-style: double;
+}
+.title2{
+  text-align: center;
+  text-decoration: none;
+  font-family: Sovereign;
+  font-size: 70px;
+}
+.articulo2{
+  margin-top: 80px;
+}
+/* Tercera seccion */
+.seccion3{
+  background-color: #e09ed8;
+  border-style: solid;
+  padding-bottom: 200px;
+}
+.title3{
+  text-align: center;
+  text-decoration: none;
+  font-family: Museo Slab;
+  font-size: 60px;
+  margin-top: 50px;
+}
+.imagenes{
+  border-style: dotted;
+  margin-top: 100px;
+  
 }
