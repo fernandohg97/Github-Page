@@ -31,7 +31,6 @@ a{
 
 /* Primera seccion */
 .seccion1{
-  border-style: double;
   padding-bottom: 160px;
 }
 .articulo1{
@@ -61,7 +60,6 @@ p{
 .seccion2{
   background-color: #97b0b3;
   padding-bottom: 50px;
-  border-style: double;
 }
 .title2{
   text-align: center;
@@ -75,8 +73,7 @@ p{
 /* Tercera seccion */
 .seccion3{
   background-color: #e09ed8;
-  border-style: solid;
-  padding-bottom: 200px;
+  padding-bottom: 10px;
 }
 .title3{
   text-align: center;
@@ -86,7 +83,18 @@ p{
   margin-top: 50px;
 }
 .imagenes{
-  border-style: dotted;
   margin-top: 100px;
-  
+}
+.img1{
+  margin-left: 22px;
+  border-style: solid;
+  border-color: whitesmoke;
+  border-width: medium;
+}
+.col-md-offset-6{
+  border-style: double;
+  margin-top: 50px;
+}
+figure{
+  text-align: center;
 }
