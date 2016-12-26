@@ -130,5 +130,30 @@ figure{
 }
 .tabla{
   text-align: center;
-  margin-left: 40%;
+  width: 50%;
+  margin-top: 30px;
+  margin-left: 25%;
+}
+thead{
+  border-bottom: 3px solid;
+  border-top: hidden;
+}
+th{
+  font-size: 20px;
+}
+
+/* Seccion 6 */
+.seccion6{
+  background-color: pink;
+  height: 400px;
+}
+.contact{
+  margin-top: 25px;
+}
+.seccion6 article div p{
+  text-align: left;
+  padding: 0;
+}
+.seccion6 article div h3{
+  font-size: 40px;
 }
