@@ -157,3 +157,23 @@ th{
 .seccion6 article div h3{
   font-size: 40px;
 }
+
+/* Footer */
+footer{
+  background-color: #3d413f;
+  position: relative;
+}
+footer p{
+  padding: 30px;
+  font-size: 13px;
+  text-align: left;
+  margin: 0 50px;
+  color: whitesmoke;
+}
+footer img{
+  position: absolute;
+  top: 30px;
+  width: 100px;
+  height: 70px;
+  right: 100px;
+}
