@@ -172,6 +172,7 @@ footer{
   position: relative;
 }
 footer p{
+  width: 20%;
   padding: 30px;
   font-size: 13px;
   text-align: left;
